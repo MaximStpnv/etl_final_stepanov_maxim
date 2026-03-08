@@ -10,7 +10,7 @@
 
 ## Источник данных 
 
-https://www.mongodb.com/docs/atlas/sample-data/sample-mflix/#sample_mflix.users 
+https://www.mongodb.com/docs/atlas/sample-data/sample-mflix/
 
 ## Загрузка данных 
 
